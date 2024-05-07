@@ -5,7 +5,7 @@
     ID: 20324976<br/>
     Student: Adityaa Gupta
     <br>
-    Supervisor: <a href="[https://people.ucd.ie/j.murphy](https://people.ucd.ie/tony.veale)">Associate Professor TOny Veale</a>
+    Supervisor: <a href="[https://people.ucd.ie/j.murphy](https://people.ucd.ie/tony.veale)">Associate Professor Tony Veale</a>
   </p>
 </div>
 
